@@ -1,0 +1,36 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.3.0
+2 info using node@v24.1.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/downloads/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm start
+8 verbose argv "start"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-06-10T11_12_23_485Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-06-10T11_12_23_485Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose stack Error: Could not read package.json: Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/home/downloads/package.json'
+12 verbose stack     at async open (node:internal/fs/promises:633:25)
+12 verbose stack     at async readFile (node:internal/fs/promises:1237:14)
+12 verbose stack     at async read (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/read-package.js:9:18)
+12 verbose stack     at async PackageJson.load (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:131:31)
+12 verbose stack     at async PackageJson.normalize (/data/data/com.termux/files/usr/lib/node_modules/npm/node_modules/@npmcli/package-json/lib/index.js:117:5)
+12 verbose stack     at async #run (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/commands/run-script.js:90:13)
+12 verbose stack     at async RunScript.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/commands/run-script.js:44:7)
+12 verbose stack     at async Npm.exec (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/npm.js:208:9)
+12 verbose stack     at async module.exports (/data/data/com.termux/files/usr/lib/node_modules/npm/lib/cli/entry.js:60:5)
+13 error code ENOENT
+14 error syscall open
+15 error path /data/data/com.termux/files/home/downloads/package.json
+16 error errno -2
+17 error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/data/data/com.termux/files/home/downloads/package.json'
+18 error enoent This is related to npm not being able to find a file.
+18 error enoent
+19 verbose cwd /data/data/com.termux/files/home/downloads
+20 verbose os Linux 5.10.218-android12-9-00062-ga900d8468ace-ab12946691
+21 verbose node v24.1.0
+22 verbose npm  v11.3.0
+23 verbose exit -2
+24 verbose code -2
+25 error A complete log of this run can be found in: /data/data/com.termux/files/home/.npm/_logs/2025-06-10T11_12_23_485Z-debug-0.log

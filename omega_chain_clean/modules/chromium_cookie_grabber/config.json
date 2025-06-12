@@ -1,0 +1,5 @@
+{
+    "cookie_url": "https://httpbin.org/cookies/set?sessionid=987654321",
+    "profile_dir": "/root/chrome_profile",
+    "webhook_url": "https://your.webhook.server/api/exfil"
+}

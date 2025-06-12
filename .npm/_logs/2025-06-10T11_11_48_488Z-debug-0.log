@@ -1,0 +1,29 @@
+0 verbose cli /data/data/com.termux/files/usr/bin/node /data/data/com.termux/files/usr/bin/npm
+1 info using npm@11.3.0
+2 info using node@v24.1.0
+3 silly config load:file:/data/data/com.termux/files/usr/lib/node_modules/npm/npmrc
+4 silly config load:file:/data/data/com.termux/files/home/downloads/bug_bounty_widget/.npmrc
+5 silly config load:file:/data/data/com.termux/files/home/.npmrc
+6 silly config load:file:/data/data/com.termux/files/usr/etc/npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes"
+9 verbose logfile logs-max:10 dir:/data/data/com.termux/files/home/.npm/_logs/2025-06-10T11_11_48_488Z-
+10 verbose logfile /data/data/com.termux/files/home/.npm/_logs/2025-06-10T11_11_48_488Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly package data {
+12 silly package data   name: 'bug_bounty_widget',
+12 silly package data   version: '1.0.0',
+12 silly package data   description: '',
+12 silly package data   main: 'main.js',
+12 silly package data   scripts: { test: 'echo "Error: no test specified" && exit 1' },
+12 silly package data   keywords: [],
+12 silly package data   author: '',
+12 silly package data   license: 'ISC',
+12 silly package data   type: 'commonjs'
+12 silly package data }
+13 verbose cwd /data/data/com.termux/files/home/downloads/bug_bounty_widget
+14 verbose os Linux 5.10.218-android12-9-00062-ga900d8468ace-ab12946691
+15 verbose node v24.1.0
+16 verbose npm  v11.3.0
+17 verbose exit 0
+18 info ok

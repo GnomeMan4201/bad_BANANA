@@ -1,0 +1,7 @@
+{
+  "name": "session_exfil_ULTIMATE",
+  "version": "1.0",
+  "description": "Nation-state-grade exfiltration implant",
+  "author": "LANimals Ops",
+  "tags": ["exfil", "stealth", "modular", "encrypted"]
+}

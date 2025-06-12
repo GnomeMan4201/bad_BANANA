@@ -1,0 +1,11 @@
+[2025-06-11T19:54:45.527324] HTTPS exfil failed: 'aes_key'
+[2025-06-11T19:55:28.654048] HTTPS exfil failed: Object type <class 'list'> cannot be passed to C code
+[2025-06-11T19:56:41.662916] HTTPS exfil failed: 'bytes' object has no attribute 'encode'
+[2025-06-11T19:58:42.659748] Sending encrypted blob over HTTPS
+[2025-06-11T19:58:43.897136] HTTPS Response: 200
+[2025-06-11T20:04:08.862247] Sending encrypted blob over HTTPS
+[2025-06-11T20:04:10.338375] HTTPS Response: 200
+[2025-06-11T20:06:45.714350] Sending encrypted blob over HTTPS
+[2025-06-11T20:06:46.805488] HTTPS Response: 200
+[2025-06-11T20:18:31.682750] Sending encrypted blob over HTTPS
+[2025-06-11T20:18:32.752082] HTTPS Response: 200
