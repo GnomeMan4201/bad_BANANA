@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GnomeMan4201/bad_BANANA/main/assets/logo.png" alt="badBANANA logo" width="300"/>
+</p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GnomeMan4201/bad_BANANA/main/assets/logo.png" alt="bad_BANANA logo" width="300"/>
